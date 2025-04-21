@@ -8,9 +8,10 @@ A lightweight, responsive, and customizable portfolio template for developers bu
 - Dark mode toggle with user preference saving
 - Smooth scrolling between sections
 - Mobile menu for smaller screens
-- Simple animations
+- Modern animations
 - Clean and modern design
 - Well-commented code for easy customization
+- Light-weight and Customizable
 
 ## File Structure
 
